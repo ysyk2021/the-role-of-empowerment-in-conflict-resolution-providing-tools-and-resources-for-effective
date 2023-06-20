@@ -1,0 +1,15 @@
+{
+    "name": "the-role-of-empowerment-in-conflict-resolution-providing-tools-and-resources-for-effective-communication-and-mediation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
