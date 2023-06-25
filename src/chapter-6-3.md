@@ -1,5 +1,4 @@
-Chapter 6: Developing Mediation Skills: Building Rapport and Trust with Parties
-===============================================================================
+# Building Rapport and Trust with Parties
 
 Mediation is a critical component of conflict resolution, and building rapport and trust with the parties involved is essential for effective mediation. In this chapter, we will discuss techniques for developing mediation skills, specifically building rapport and trust with parties.
 

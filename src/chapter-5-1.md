@@ -1,5 +1,4 @@
-Chapter 5: Providing Tools and Resources for Effective Communication: Techniques for Providing Tools and Resources for Effective Communication
-==============================================================================================================================================
+# Techniques for Providing Tools and Resources for Effective Communication
 
 Effective communication is a critical component of conflict resolution. In this chapter, we will discuss techniques for providing tools and resources for effective communication.
 

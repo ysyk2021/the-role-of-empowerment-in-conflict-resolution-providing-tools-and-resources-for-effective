@@ -1,5 +1,4 @@
-Chapter 8: Fostering Collaborative Problem-Solving: Brainstorming and Generating Options
-========================================================================================
+# Brainstorming and Generating Options
 
 Collaborative problem-solving is critical for effective conflict resolution. When parties work together to find a mutually beneficial solution, the likelihood of reaching an agreement increases. In this chapter, we will discuss techniques for fostering collaborative problem-solving by brainstorming and generating options.
 

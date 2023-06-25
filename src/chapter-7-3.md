@@ -1,5 +1,4 @@
-Chapter 7: Addressing Power Imbalances: Ensuring Fairness and Equity in the Process
-===================================================================================
+# Ensuring Fairness and Equity in the Process
 
 Addressing power imbalances is critical for effective conflict resolution. Parties must feel that they have an equal voice in the process and that their needs and interests are being taken seriously. This chapter provides techniques for addressing power imbalances and ensuring fairness and equity in the process.
 

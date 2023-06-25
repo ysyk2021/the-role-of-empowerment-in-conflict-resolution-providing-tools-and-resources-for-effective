@@ -1,5 +1,4 @@
-Chapter 4: Creating a Culture of Empowerment: Encouraging Employee Participation and Input
-==========================================================================================
+# Encouraging Employee Participation and Input
 
 Creating a culture of empowerment is critical for effective conflict resolution. By empowering employees to take ownership of their own needs and interests, organizations can work together to find mutually beneficial solutions that promote long-term relationship building. This chapter provides techniques for creating a culture of empowerment by encouraging employee participation and input.
 

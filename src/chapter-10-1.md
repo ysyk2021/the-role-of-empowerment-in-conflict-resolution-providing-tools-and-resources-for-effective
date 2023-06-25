@@ -1,5 +1,4 @@
-Chapter 10: Sustaining Empowerment Efforts in Conflict Resolution: Techniques for Sustaining Empowerment Efforts in Conflict Resolution
-=======================================================================================================================================
+# Techniques for Sustaining Empowerment Efforts in Conflict Resolution
 
 Sustaining empowerment efforts is critical for long-term success in conflict resolution. By continuing to empower individuals to take ownership of their own needs and interests, organizations can build strong relationships based on trust and respect. This chapter provides techniques for sustaining empowerment efforts in conflict resolution.
 

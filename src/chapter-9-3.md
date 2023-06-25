@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Empowerment Effectiveness in Conflict Resolution: Analyzing Results and Making Improvements
-===============================================================================================================================
+# Analyzing Results and Making Improvements
 
 Empowerment is a critical component of conflict resolution. However, it can be challenging to measure and evaluate the effectiveness of empowerment efforts. In this chapter, we will discuss techniques for measuring and evaluating empowerment effectiveness in conflict resolution.
 

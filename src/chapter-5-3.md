@@ -1,5 +1,4 @@
-Chapter 5: Providing Tools and Resources for Effective Communication: Managing Emotions and Stress during Conflict
-==================================================================================================================
+# Managing Emotions and Stress during Conflict
 
 Conflict resolution can be emotionally challenging, especially when individuals feel strongly about their needs and interests. Effective communication requires managing emotions and stress during conflict. This chapter provides tools and resources for managing emotions and stress during conflict.
 

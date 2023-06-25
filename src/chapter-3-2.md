@@ -1,5 +1,4 @@
-Chapter 3: Understanding Empowerment in Conflict Resolution: Identifying Key Elements of Empowerment
-====================================================================================================
+# Identifying Key Elements of Empowerment
 
 Empowerment is a critical component of effective conflict resolution. By empowering individuals to take ownership of their own needs and interests, parties can work together to find mutually beneficial solutions that promote long-term relationship building. This chapter identifies key elements of empowerment in conflict resolution.
 

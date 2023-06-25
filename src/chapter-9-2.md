@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Empowerment Effectiveness in Conflict Resolution: Establishing Key Performance Indicators (KPIs)
-====================================================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating the effectiveness of empowerment in conflict resolution is critical for improving conflict resolution skills over time. This chapter takes a closer look at establishing key performance indicators (KPIs) for measuring and evaluating empowerment effectiveness in conflict resolution.
 

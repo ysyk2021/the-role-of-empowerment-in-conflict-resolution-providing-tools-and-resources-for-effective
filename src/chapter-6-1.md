@@ -1,5 +1,4 @@
-Chapter 6: Developing Mediation Skills: Techniques for Developing Mediation Skills
-==================================================================================
+# Techniques for Developing Mediation Skills
 
 Mediation is a critical skill for effective conflict resolution. While some individuals may possess natural mediation skills, these skills can also be developed through training and practice. In this chapter, we will discuss techniques for developing mediation skills.
 

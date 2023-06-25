@@ -1,5 +1,4 @@
-Chapter 8: Fostering Collaborative Problem-Solving: Techniques for Fostering Collaborative Problem-Solving
-==========================================================================================================
+# Techniques for Fostering Collaborative Problem-Solving
 
 Collaborative problem-solving is critical for effective conflict resolution. In this chapter, we will discuss techniques for fostering collaborative problem-solving.
 

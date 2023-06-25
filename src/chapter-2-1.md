@@ -1,5 +1,4 @@
-Chapter 2: Overview of Conflict Resolution: Different Perspectives and Approaches to Conflict Resolution
-========================================================================================================
+# Different Perspectives and Approaches to Conflict Resolution
 
 Conflict resolution is the process of resolving disputes or disagreements between two or more parties. Different perspectives and approaches to conflict resolution exist, each with its own benefits and drawbacks. This chapter provides an overview of different perspectives and approaches to conflict resolution.
 

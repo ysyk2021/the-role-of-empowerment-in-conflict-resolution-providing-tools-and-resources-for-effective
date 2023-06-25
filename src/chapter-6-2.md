@@ -1,5 +1,4 @@
-Chapter 6: Developing Mediation Skills: Understanding Different Mediation Styles
-================================================================================
+# Understanding Different Mediation Styles
 
 Mediation is an effective tool for resolving conflicts. However, there are different mediation styles that mediators can use to help parties reach a resolution. In this chapter, we will discuss the various mediation styles and how to develop mediation skills.
 

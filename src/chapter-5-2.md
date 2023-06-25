@@ -1,5 +1,4 @@
-Chapter 5: Providing Tools and Resources for Effective Communication: Active Listening and Reflection Skills
-============================================================================================================
+# Active Listening and Reflection Skills
 
 Effective communication is critical for successful conflict resolution. In this chapter, we will discuss tools and resources for effective communication, including active listening and reflection skills.
 

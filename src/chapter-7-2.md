@@ -1,5 +1,4 @@
-Chapter 7: Addressing Power Imbalances: Recognizing and Mitigating Power Dynamics
-=================================================================================
+# Recognizing and Mitigating Power Dynamics
 
 Power imbalances can be a significant barrier to effective conflict resolution. When one party has more power than the other, it can be challenging to reach a mutually beneficial agreement. In this chapter, we will discuss techniques for recognizing and mitigating power dynamics in conflict resolution.
 

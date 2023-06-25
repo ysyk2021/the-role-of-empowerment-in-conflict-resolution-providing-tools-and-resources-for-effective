@@ -1,5 +1,4 @@
-Chapter 2: Overview of Conflict Resolution: The Impact of Conflict on Individuals and Organizations
-===================================================================================================
+# The Impact of Conflict on Individuals and Organizations
 
 Conflict can have a significant impact on individuals and organizations. It can cause stress, anxiety, and negative emotions, as well as damage relationships and hinder productivity. This chapter provides an overview of the impact of conflict on individuals and organizations.
 
