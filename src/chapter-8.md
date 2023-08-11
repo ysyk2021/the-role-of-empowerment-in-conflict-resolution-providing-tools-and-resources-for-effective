@@ -44,26 +44,6 @@ To effectively negotiate and reach agreement, parties should:
 * Remain open to compromise and alternative solutions.
 * Focus on finding a mutually acceptable solution rather than "winning" the negotiation.
 
-Building Consensus
-------------------
-
-To effectively build consensus, parties should:
-
-* Identify common ground and shared interests.
-* Work collaboratively to develop a solution that meets the needs and interests of all involved.
-* Avoid insisting on a specific solution or outcome.
-* Foster a sense of ownership and commitment among all parties.
-
-Mediation and Facilitation
---------------------------
-
-To effectively use mediation and facilitation, parties should:
-
-* Select a neutral third party who is trusted by all parties involved.
-* Clearly communicate their needs, interests, and priorities to the mediator or facilitator.
-* Follow the mediator or facilitator's guidance and actively participate in the process.
-* Remain open to compromise and alternative solutions.
-
 Conclusion
 ----------
 
