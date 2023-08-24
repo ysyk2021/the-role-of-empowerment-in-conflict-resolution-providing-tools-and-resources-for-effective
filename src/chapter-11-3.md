@@ -1,4 +1,3 @@
-# Future Directions for Research and Practice
 
 Effective conflict resolution requires not only effective communication and mediation skills but also the empowerment of individuals to take ownership of their own needs and interests. This book has explored the role of empowerment in conflict resolution, providing tools and resources for effective communication and mediation.
 

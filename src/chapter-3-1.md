@@ -1,5 +1,3 @@
-Techniques for Understanding Empowerment in Conflict Resolution
-========================================================================
 
 This chapter focuses on techniques that can help conflict resolution practitioners better understand and promote empowerment in the context of resolving conflicts. By employing these techniques, practitioners can gain valuable insights into the dynamics of empowerment and utilize them to facilitate effective communication and mediation.
 

@@ -1,5 +1,3 @@
-The Impact of Conflict on Individuals and Organizations
-================================================================
 
 In this chapter, we will explore the profound impact that conflict can have on individuals and organizations. Conflict, whether interpersonal or within a group or organization, can create both positive and negative outcomes. Understanding the effects of conflict is crucial in order to develop effective strategies for resolution and to promote healthier relationships and organizational environments.
 

@@ -1,5 +1,3 @@
-Ensuring Fairness and Equity in the Process
-====================================================
 
 In this chapter, we will explore the significance of ensuring fairness and equity in the conflict resolution process. Fairness and equity are essential principles that contribute to the legitimacy and effectiveness of conflict resolution efforts. By establishing fair and equitable processes, individuals can promote trust, inclusivity, and empowerment among all parties involved.
 

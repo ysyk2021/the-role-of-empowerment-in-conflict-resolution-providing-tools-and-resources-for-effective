@@ -1,5 +1,3 @@
-Building Rapport and Trust with Parties
-================================================
 
 In this chapter, we will explore the importance of building rapport and trust with parties in conflict resolution. Establishing a strong foundation of trust and rapport is crucial for effective communication and successful mediation. We will discuss strategies and techniques that can help mediators foster trust and create a positive environment for conflict resolution.
 

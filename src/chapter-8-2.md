@@ -1,5 +1,3 @@
-Brainstorming and Generating Options
-=============================================
 
 In conflict resolution, the process of brainstorming and generating options plays a pivotal role in empowering individuals and finding mutually agreeable solutions. This chapter explores the importance of creative problem-solving and provides strategies for effectively brainstorming and generating options in conflict resolution processes.
 

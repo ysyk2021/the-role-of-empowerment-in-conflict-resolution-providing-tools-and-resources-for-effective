@@ -1,5 +1,3 @@
-Chapter 8: Fostering Collaborative Problem-Solving
-==================================================
 
 Fostering collaborative problem-solving is critical for effective conflict resolution. By working together to identify and address the root causes of a conflict, parties can reach mutually beneficial outcomes that satisfy the needs and interests of all involved. This chapter provides techniques for fostering collaborative problem-solving in conflict resolution.
 

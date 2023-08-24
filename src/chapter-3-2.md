@@ -1,5 +1,3 @@
-Identifying Key Elements of Empowerment
-================================================
 
 In this chapter, we will identify and explore the key elements of empowerment in conflict resolution. Understanding these elements is crucial for conflict resolution practitioners to effectively promote empowerment among individuals involved in conflicts. By recognizing and addressing these key elements, practitioners can create empowering environments that support active participation, ownership, and positive change.
 

@@ -1,5 +1,3 @@
-Chapter 10: Sustaining Empowerment Efforts in Conflict Resolution
-=================================================================
 
 Empowerment is a critical component of conflict resolution. However, sustaining empowerment efforts in the long term can be challenging. In this chapter, we will discuss techniques for sustaining empowerment efforts in conflict resolution.
 

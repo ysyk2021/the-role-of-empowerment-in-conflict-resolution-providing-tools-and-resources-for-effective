@@ -1,5 +1,3 @@
-Managing Emotions and Stress During Conflict
-=====================================================
 
 In this chapter, we will explore the importance of managing emotions and stress during conflict. Emotions play a significant role in conflict situations and can either escalate or hinder effective resolution. By learning strategies to manage emotions and cope with stress, individuals can navigate conflicts more constructively and contribute to successful outcomes.
 

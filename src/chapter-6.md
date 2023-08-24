@@ -1,5 +1,3 @@
-Chapter 6: Developing Mediation Skills
-======================================
 
 Mediation is a valuable tool for resolving conflicts, allowing parties to work together towards mutually acceptable solutions. Effective mediation requires the development of strong mediation skills. This chapter provides techniques for developing mediation skills.
 

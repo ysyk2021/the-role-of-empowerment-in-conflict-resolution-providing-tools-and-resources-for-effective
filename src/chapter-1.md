@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Conflict resolution is a critical skill in both personal and professional contexts. Effective conflict resolution requires not only effective communication and mediation skills but also the empowerment of individuals to take ownership of their own needs and interests. This book explores the role of empowerment in conflict resolution, providing tools and resources for effective communication and mediation.
 

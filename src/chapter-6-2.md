@@ -1,5 +1,3 @@
-Understanding Different Mediation Styles
-=================================================
 
 In this chapter, we will explore different mediation styles that play a crucial role in conflict resolution. Each style has its unique approach and set of techniques for facilitating effective communication and guiding parties towards a resolution. Understanding these styles can help mediators adapt their approach based on the nature of the conflict and the needs of the parties involved.
 

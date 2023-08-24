@@ -1,5 +1,3 @@
-Negotiating and Reaching Agreement
-===========================================
 
 Negotiating and reaching agreement are essential components of effective conflict resolution processes. This chapter explores the importance of negotiation skills and provides practical tools and resources to enhance communication and mediation for successful resolution.
 

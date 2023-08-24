@@ -1,5 +1,3 @@
-Establishing Trust and Open Communication
-==================================================
 
 In this chapter, we will explore the importance of establishing trust and open communication in the context of conflict resolution. Trust and open communication are foundational elements that contribute to effective conflict resolution and create a positive and productive work environment. We will discuss strategies and techniques that managers and leaders can employ to establish trust and foster open communication within their teams.
 

@@ -1,4 +1,3 @@
-# Recap of Key Points and Strategies
 
 Empowerment is a critical component of effective conflict resolution. By empowering individuals to take ownership of their own needs and interests, parties can work together to find mutually beneficial solutions that promote long-term relationship building. This chapter provides a recap of key points and strategies.
 

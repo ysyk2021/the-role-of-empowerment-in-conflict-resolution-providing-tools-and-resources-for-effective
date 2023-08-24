@@ -1,5 +1,3 @@
-Chapter 2: Overview of Conflict Resolution
-==========================================
 
 Conflict resolution is a critical skill that enables individuals and organizations to resolve disputes and disagreements in a mutually beneficial way. This chapter provides an overview of conflict resolution, exploring different perspectives and approaches, the impact of conflict on individuals and organizations, and techniques for overcoming common challenges in conflict resolution.
 

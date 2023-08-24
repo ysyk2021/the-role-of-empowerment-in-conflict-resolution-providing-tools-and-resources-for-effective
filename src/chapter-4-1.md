@@ -1,4 +1,3 @@
-# Techniques for Creating a Culture of Empowerment
 
 Creating a culture of empowerment is critical for effective conflict resolution. By empowering individuals to take ownership of their own needs and interests, parties can work together to find mutually beneficial solutions that promote long-term relationship building. This chapter provides techniques for creating a culture of empowerment.
 

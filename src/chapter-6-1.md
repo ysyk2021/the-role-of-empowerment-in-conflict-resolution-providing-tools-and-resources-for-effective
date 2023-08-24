@@ -1,5 +1,3 @@
-Techniques for Developing Mediation Skills
-===================================================
 
 In this chapter, we will explore various techniques that can help individuals develop their mediation skills. Mediation is a complex process that requires a combination of knowledge, experience, and interpersonal abilities. By honing these skills, mediators can enhance their effectiveness in facilitating communication and resolving conflicts. We will discuss key techniques that can aid in the development of mediation skills.
 

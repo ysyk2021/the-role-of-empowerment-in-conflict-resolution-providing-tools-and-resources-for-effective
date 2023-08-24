@@ -1,5 +1,3 @@
-Chapter 5: Providing Tools and Resources for Effective Communication
-====================================================================
 
 Effective communication is critical for successful conflict resolution. This chapter provides techniques for providing tools and resources for effective communication, including active listening and reflection skills and managing emotions and stress during conflict.
 
